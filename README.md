@@ -12,7 +12,7 @@ This index provides direct links to the code, detailed executive reports, and ke
 | :--- | :--- | :--- | :--- |
 | **[Plant Seeding Visual AI](Plant_Seeding_Visual_AI)** | Python, TensorFlow, Keras, CNNs | 76.84% Accuracy | **Visual AI project** that uses Deep Learning to classify 12 distinct plant species from images, significantly improving model performance through architectural enhancements and data augmentation. |
 | **[Wind Turbine Predictive ML](Wind_Turbine_Predictive_ML)** | Python, XGBoost, SMOTE | 85.5% Recall / 97.9% Acc | Predictive Maintenance **ML** model focused on maximizing **Recall** to accurately classify and anticipate wind turbine component failures. |
-| ... (Future Projects) | ... | ... | ... |
+| ... (more Projects adding) | ... | ... | ... |
 
 ---
 
