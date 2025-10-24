@@ -10,20 +10,20 @@ This index provides direct links to the code, detailed executive reports, and ke
 
 | Project Name | Technology Used | Key Metric / Result | Description |
 | :--- | :--- | :--- | :--- |
-| **[Plant Seeding Visual AI](Plant_Seeding_Visual_AI)** | Python, TensorFlow, Keras, CNNs | 76.84% Accuracy | **Visual AI project** that uses Deep Learning to classify 12 distinct plant species from images, significantly improving model performance through architectural enhancements and data augmentation. |
+| **[Brain MRI Transfer Learning VGG16 Visual AI](Brain_MRI_Transfer_Learning_VGG16_Visual_AI)** | Deep Learning, VGG16, CNNs | **91% Validation Accuracy** (Achieved in 5 epochs) | Image classification model using **Transfer Learning** to efficiently classify brain MRI scans (Pituitary vs. No Tumor). |
+| **[Plant Seeding Visual AI](Plant_Seeding_Classification_AI)** | Python, TensorFlow, Keras, CNNs | 76.84% Accuracy | **Visual AI project** that uses Deep Learning to classify 12 distinct plant species from images. |
 | **[Wind Turbine Predictive ML](Wind_Turbine_Predictive_ML)** | Python, XGBoost, SMOTE | 85.5% Recall / 97.9% Acc | Predictive Maintenance **ML** model focused on maximizing **Recall** to accurately classify and anticipate wind turbine component failures. |
-| ... (more Projects adding) | ... | ... | ... |
+| ... (Adding more Projects) | ... | ... | ... |
 
 ---
 
 ## 💡 Access Portfolio Assets
 
-The full executive summaries and reports for each project are linked below for quick review by non-technical managers and HR.
+The full summaries and reports for each project are linked below for quick review.
 
-* **Plant Seeding Executive Report:** [View PDF](Plant_Seeding_Visual_AI/Plants_seeding_Visual_AI_EK.pdf)
+* **Brain MRI Code Report:** [View PDF](Brain_MRI_Transfer_Learning_VGG16_Visual_AI/Brain_MRI_VGG16_Code_Comments_EK.pdf)
+* **Plant Seeding Executive Report:** [View PDF](Plant_Seeding_Classification_AI/Plants%20seeding%20Classification_Visual_AI_EK.pdf)
 * **Wind Turbine Executive Report:** [View PDF](Wind_Turbine_Predictive_ML/ReneWind_Predictive_ML_EK.pdf)
-
-*(Note: Please ensure the PDF links above match your exact file names, especially for the Plant Seeding project.)*
 
 ### Next Steps & Contact
 
