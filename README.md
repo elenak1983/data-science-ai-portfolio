@@ -1,4 +1,4 @@
-# 👩‍💻 ELENA'S DATA SCIENCE & AI PORTFOLIO
+# 👩‍💻 OLENA'S (ELENA'S) DATA SCIENCE & AI PORTFOLIO
 
 A curated collection of my Python data analysis, machine learning, and AI projects, demonstrating expertise in deep learning, predictive modeling, and business-focused analytics.
 
